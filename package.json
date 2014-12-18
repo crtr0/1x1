@@ -1,0 +1,19 @@
+{
+  "name": "1x1",
+  "version": "0.0.0",
+  "description": "Generate 1x1 pixel gifs of a given color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gif-encoder": "^0.4.1"
+  },
+  "subdomain": "color-1x1",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
